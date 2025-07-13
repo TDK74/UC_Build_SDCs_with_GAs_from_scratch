@@ -10,8 +10,8 @@ Instructor's code / repository could be found here:
 
 ### Description
 This repository contains only Python code from my practice after each lesson.  
-In addition, several files were lightly customized to enable automatic launch of race tracks, add slight car dispersion at the start and along the track, and introduce a main entry-point file.  
-Other tweaks include reduced population size, fewer training rounds, and increased maximum speed limit.  
+In addition, several original Python files were lightly customized to enable automatic launch of race tracks, add slight car dispersion at the start and along the track, and introduce a main entry-point file.  
+Other tweaks include reduced population size, fewer training rounds, and increased maximum speed limit. Original Python files with the same names with the modified ones are uploaded with suffix _org.  
 I highly recommend signing in and enrolling the course for more detailed explanations and theory. It was fun and interesting! 🙂
 
 ### Notes
