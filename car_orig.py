@@ -13,7 +13,7 @@ class Radar:
 
 
 class Car:
-    max_speed = 19.0
+    max_speed = 6.0
     slipping_speed = max_speed * 0.75
 
     def __init__(self, network, track, image, batch):
