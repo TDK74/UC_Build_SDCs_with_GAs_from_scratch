@@ -17,3 +17,6 @@ I highly recommend signing in and enrolling the course for more detailed explana
 ### Notes
 - However, this repository contains only the raw Python code from my practice sessions, without any additional dependencies or configurations.
 - As a result, the code may not work immediately without modifications. Please keep this in mind when running the scripts.
+
+Link to the illustrative Youtube video:  
+<https://youtu.be/Wu7IkkJlorQ>
